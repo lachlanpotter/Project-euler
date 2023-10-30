@@ -33,4 +33,4 @@ def permutation(n):
 permutation(number)
 
 #It doesn't give the exact answer because it doesnt keep track of the family of digits that have been "used up", but can be deciphered.
-#ANSWER: 2783915406
+#ANSWER: 2783915460
